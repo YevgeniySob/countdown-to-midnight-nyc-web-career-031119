@@ -2,7 +2,8 @@
 
 def countdown
   i = 0
-  while 
+  while i <
   
+    i+=1
   end
 end
